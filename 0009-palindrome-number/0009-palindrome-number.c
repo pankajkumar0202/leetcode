@@ -17,5 +17,6 @@ bool isPalindrome(int x) {
     } else {
         printf("false");
       }
+      
     return 0;
 }
