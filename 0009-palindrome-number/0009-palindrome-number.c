@@ -1,5 +1,3 @@
-
-
 bool isPalindrome(int x) {
     
     int org = x;
@@ -13,10 +11,9 @@ bool isPalindrome(int x) {
 
     if (rev == org) {
         printf("true");
-       return true;
+        return true;
     } else {
         printf("false");
-      
-    }
+      }
     return 0;
 }
