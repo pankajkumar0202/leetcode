@@ -1,3 +1,5 @@
+
+
 bool isPalindrome(int x) {
     
     int org = x;
