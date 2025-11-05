@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/pankajkumar0202/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2752-sum-multiples](https://github.com/pankajkumar0202/leetcode/tree/master/2752-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
