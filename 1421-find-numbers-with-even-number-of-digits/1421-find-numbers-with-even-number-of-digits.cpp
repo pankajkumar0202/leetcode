@@ -3,11 +3,13 @@ public:
     int findNumbers(vector<int>& nums) {
         int result = 0;
      for(int i = 0; i<nums.size(); i++){
-        //int temp = nums[i];
         int count = 0;
+        int rev = 0;
         while(nums[i]>0){
             int ld = nums[i]%10;
-            count++;
+             count++;
+            rev = rev*10 + ld;
+           
             nums[i]/=10;
     
         }if(count%2==0){
