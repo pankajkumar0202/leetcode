@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pankajkumar0202/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,8 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pankajkumar0202/leetcode/tree/master/0202-happy-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
