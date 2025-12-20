@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pankajkumar0202/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pankajkumar0202/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/pankajkumar0202/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/pankajkumar0202/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0258-add-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
