@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/pankajkumar0202/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pankajkumar0202/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajkumar0202/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
