@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pankajkumar0202/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pankajkumar0202/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pankajkumar0202/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/pankajkumar0202/leetcode/tree/master/1952-three-divisors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pankajkumar0202/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
