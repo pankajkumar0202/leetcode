@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pankajkumar0202/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pankajkumar0202/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/pankajkumar0202/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pankajkumar0202/leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/pankajkumar0202/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
