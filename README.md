@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/pankajkumar0202/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
