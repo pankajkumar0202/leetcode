@@ -10,7 +10,6 @@ public:
             if(i.second>1) {
                 temp = i.first;
             }
-        }
-        return temp;
+        }return temp;
     }
 };
