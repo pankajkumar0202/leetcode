@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/pankajkumar0202/leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pankajkumar0202/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3371-harshad-number](https://github.com/pankajkumar0202/leetcode/tree/master/3371-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/pankajkumar0202/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
