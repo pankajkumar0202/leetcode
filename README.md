@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/pankajkumar0202/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2733-neither-minimum-nor-maximum](https://github.com/pankajkumar0202/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
