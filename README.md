@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pankajkumar0202/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pankajkumar0202/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/pankajkumar0202/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pankajkumar0202/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pankajkumar0202/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/pankajkumar0202/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pankajkumar0202/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
