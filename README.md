@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pankajkumar0202/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pankajkumar0202/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/pankajkumar0202/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pankajkumar0202/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pankajkumar0202/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/pankajkumar0202/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/pankajkumar0202/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pankajkumar0202/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0229-majority-element-ii) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pankajkumar0202/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
