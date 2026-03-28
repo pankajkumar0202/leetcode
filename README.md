@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pankajkumar0202/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/pankajkumar0202/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pankajkumar0202/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/pankajkumar0202/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pankajkumar0202/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pankajkumar0202/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/pankajkumar0202/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pankajkumar0202/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajkumar0202/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
