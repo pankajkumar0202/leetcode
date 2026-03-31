@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pankajkumar0202/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/pankajkumar0202/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pankajkumar0202/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pankajkumar0202/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pankajkumar0202/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/pankajkumar0202/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/pankajkumar0202/leetcode/tree/master/0287-find-the-duplicate-number) |
