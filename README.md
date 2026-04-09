@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/pankajkumar0202/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/pankajkumar0202/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/0742-to-lower-case) |
+| [3794-reverse-string-prefix](https://github.com/pankajkumar0202/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
