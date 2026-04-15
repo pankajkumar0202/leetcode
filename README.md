@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/pankajkumar0202/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/pankajkumar0202/leetcode/tree/master/2752-sum-multiples) |
+| [2843-count-symmetric-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pankajkumar0202/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
 ## Prefix Sum
 |  |
