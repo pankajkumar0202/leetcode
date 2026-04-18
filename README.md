@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pankajkumar0202/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/pankajkumar0202/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/pankajkumar0202/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
