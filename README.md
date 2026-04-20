@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/pankajkumar0202/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pankajkumar0202/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pankajkumar0202/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pankajkumar0202/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/pankajkumar0202/leetcode/tree/master/1323-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/pankajkumar0202/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Trie
 |  |
