@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pankajkumar0202/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pankajkumar0202/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pankajkumar0202/leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/0742-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pankajkumar0202/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3794-reverse-string-prefix](https://github.com/pankajkumar0202/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Counting
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pankajkumar0202/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
