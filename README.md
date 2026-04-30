@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/pankajkumar0202/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/pankajkumar0202/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pankajkumar0202/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/pankajkumar0202/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
