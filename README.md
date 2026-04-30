@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pankajkumar0202/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pankajkumar0202/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/pankajkumar0202/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pankajkumar0202/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Number Theory
 |  |
 | ------- |
