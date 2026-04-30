@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pankajkumar0202/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pankajkumar0202/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajkumar0202/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/pankajkumar0202/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankajkumar0202/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pankajkumar0202/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajkumar0202/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/pankajkumar0202/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pankajkumar0202/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pankajkumar0202/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pankajkumar0202/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/pankajkumar0202/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pankajkumar0202/leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/pankajkumar0202/leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pankajkumar0202/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pankajkumar0202/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/pankajkumar0202/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankajkumar0202/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0922-sort-array-by-parity-ii) |
