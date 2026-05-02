@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pankajkumar0202/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3371-harshad-number](https://github.com/pankajkumar0202/leetcode/tree/master/3371-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/pankajkumar0202/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/pankajkumar0202/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Number Theory
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pankajkumar0202/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/pankajkumar0202/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pankajkumar0202/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
