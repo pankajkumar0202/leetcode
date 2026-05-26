@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/2810-faulty-keyboard) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/pankajkumar0202/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pankajkumar0202/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2810-faulty-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pankajkumar0202/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
