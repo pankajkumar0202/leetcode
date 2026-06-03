@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/pankajkumar0202/leetcode/tree/master/3024-type-of-triangle) |
+| [3151-special-array-i](https://github.com/pankajkumar0202/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pankajkumar0202/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
