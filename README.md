@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pankajkumar0202/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2527-find-xor-beauty-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -506,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pankajkumar0202/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
