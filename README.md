@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pankajkumar0202/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pankajkumar0202/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pankajkumar0202/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/pankajkumar0202/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankajkumar0202/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
