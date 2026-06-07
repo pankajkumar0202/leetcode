@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/pankajkumar0202/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pankajkumar0202/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/pankajkumar0202/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/pankajkumar0202/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/pankajkumar0202/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
