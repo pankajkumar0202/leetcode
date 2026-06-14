@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/pankajkumar0202/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pankajkumar0202/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pankajkumar0202/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pankajkumar0202/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/pankajkumar0202/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pankajkumar0202/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajkumar0202/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pankajkumar0202/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pankajkumar0202/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pankajkumar0202/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1630-arithmetic-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pankajkumar0202/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pankajkumar0202/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2109-adding-spaces-to-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pankajkumar0202/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/pankajkumar0202/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/pankajkumar0202/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2256-minimum-average-difference](https://github.com/pankajkumar0202/leetcode/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/pankajkumar0202/leetcode/tree/master/2270-number-of-ways-to-split-array) |
