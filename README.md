@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pankajkumar0202/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajkumar0202/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/pankajkumar0202/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pankajkumar0202/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pankajkumar0202/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/pankajkumar0202/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/pankajkumar0202/leetcode/tree/master/0504-base-7) |
+| [0647-palindromic-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/pankajkumar0202/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/0742-to-lower-case) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/pankajkumar0202/leetcode/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/pankajkumar0202/leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
