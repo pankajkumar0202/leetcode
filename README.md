@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pankajkumar0202/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pankajkumar0202/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/pankajkumar0202/leetcode/tree/master/0791-custom-sort-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pankajkumar0202/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pankajkumar0202/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pankajkumar0202/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
