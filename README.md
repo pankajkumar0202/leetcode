@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/pankajkumar0202/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pankajkumar0202/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/pankajkumar0202/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pankajkumar0202/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/2527-find-xor-beauty-of-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
