@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pankajkumar0202/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pankajkumar0202/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/3866-first-unique-even-element) |
+| [3903-smallest-stable-index-i](https://github.com/pankajkumar0202/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pankajkumar0202/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/pankajkumar0202/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
