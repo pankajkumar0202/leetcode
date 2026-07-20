@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/pankajkumar0202/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1323-maximum-69-number](https://github.com/pankajkumar0202/leetcode/tree/master/1323-maximum-69-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pankajkumar0202/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/pankajkumar0202/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pankajkumar0202/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/pankajkumar0202/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1929-concatenation-of-array) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
