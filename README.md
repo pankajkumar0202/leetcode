@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/pankajkumar0202/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pankajkumar0202/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pankajkumar0202/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2383-add-two-integers](https://github.com/pankajkumar0202/leetcode/tree/master/2383-add-two-integers) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/pankajkumar0202/leetcode/tree/master/1952-three-divisors) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pankajkumar0202/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
