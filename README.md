@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/pankajkumar0202/leetcode/tree/master/3371-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pankajkumar0202/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/pankajkumar0202/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/pankajkumar0202/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pankajkumar0202/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/pankajkumar0202/leetcode/tree/master/3701-compute-alternating-sum) |
