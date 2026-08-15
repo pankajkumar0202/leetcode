@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pankajkumar0202/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/pankajkumar0202/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/pankajkumar0202/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pankajkumar0202/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pankajkumar0202/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pankajkumar0202/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2063-vowels-of-all-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/pankajkumar0202/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2063-vowels-of-all-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/pankajkumar0202/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
