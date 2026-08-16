@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pankajkumar0202/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/pankajkumar0202/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2405-optimal-partition-of-string](https://github.com/pankajkumar0202/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pankajkumar0202/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/pankajkumar0202/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajkumar0202/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/pankajkumar0202/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pankajkumar0202/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2405-optimal-partition-of-string](https://github.com/pankajkumar0202/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2578-split-with-minimum-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajkumar0202/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
