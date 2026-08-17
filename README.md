@@ -718,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
