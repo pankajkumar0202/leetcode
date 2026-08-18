@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pankajkumar0202/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pankajkumar0202/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/pankajkumar0202/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pankajkumar0202/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pankajkumar0202/leetcode/tree/master/0877-stone-game) |
+| [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -730,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pankajkumar0202/leetcode/tree/master/0141-linked-list-cycle) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
