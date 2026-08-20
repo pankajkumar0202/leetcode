@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pankajkumar0202/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/pankajkumar0202/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pankajkumar0202/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankajkumar0202/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Queue
 |  |
 | ------- |
