@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pankajkumar0202/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/pankajkumar0202/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/pankajkumar0202/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2578-split-with-minimum-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/pankajkumar0202/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/pankajkumar0202/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/pankajkumar0202/leetcode/tree/master/2974-minimum-number-game) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/pankajkumar0202/leetcode/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/pankajkumar0202/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/pankajkumar0202/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pankajkumar0202/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/pankajkumar0202/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2578-split-with-minimum-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/pankajkumar0202/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajkumar0202/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
