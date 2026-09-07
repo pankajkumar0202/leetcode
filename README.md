@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/pankajkumar0202/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pankajkumar0202/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pankajkumar0202/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/pankajkumar0202/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pankajkumar0202/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/pankajkumar0202/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pankajkumar0202/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pankajkumar0202/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/pankajkumar0202/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pankajkumar0202/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pankajkumar0202/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pankajkumar0202/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pankajkumar0202/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
