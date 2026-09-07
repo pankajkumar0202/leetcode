@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/pankajkumar0202/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pankajkumar0202/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/pankajkumar0202/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajkumar0202/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Trie
 |  |
 | ------- |
@@ -752,10 +754,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Segment Tree
 |  |
 | ------- |
