@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/pankajkumar0202/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankajkumar0202/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pankajkumar0202/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
