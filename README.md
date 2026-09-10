@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pankajkumar0202/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/pankajkumar0202/leetcode/tree/master/0742-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/pankajkumar0202/leetcode/tree/master/0791-custom-sort-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajkumar0202/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pankajkumar0202/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pankajkumar0202/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pankajkumar0202/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pankajkumar0202/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/pankajkumar0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajkumar0202/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/pankajkumar0202/leetcode/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/pankajkumar0202/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pankajkumar0202/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajkumar0202/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/pankajkumar0202/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/pankajkumar0202/leetcode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pankajkumar0202/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -820,5 +823,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajkumar0202/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
