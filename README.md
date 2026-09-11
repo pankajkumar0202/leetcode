@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/pankajkumar0202/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pankajkumar0202/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pankajkumar0202/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pankajkumar0202/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/pankajkumar0202/leetcode/tree/master/3731-find-missing-elements) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/pankajkumar0202/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankajkumar0202/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pankajkumar0202/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/pankajkumar0202/leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
