@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajkumar0202/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3638-maximum-balanced-shipments](https://github.com/pankajkumar0202/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pankajkumar0202/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pankajkumar0202/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pankajkumar0202/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2063-vowels-of-all-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3638-maximum-balanced-shipments](https://github.com/pankajkumar0202/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pankajkumar0202/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pankajkumar0202/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajkumar0202/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/pankajkumar0202/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Trie
 |  |
 | ------- |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/pankajkumar0202/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pankajkumar0202/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pankajkumar0202/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/pankajkumar0202/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/pankajkumar0202/leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/pankajkumar0202/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Segment Tree
 |  |
 | ------- |
