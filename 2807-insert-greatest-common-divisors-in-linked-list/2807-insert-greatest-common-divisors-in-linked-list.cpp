@@ -17,9 +17,8 @@ public:
             ListNode* second = new ListNode(temp);
             second->next = first->next;
             first->next = second;
-            first = second->next;
+            first = first->next->next;
         }
         return head;
-      
     }
 };
