@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pankajkumar0202/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pankajkumar0202/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/pankajkumar0202/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/pankajkumar0202/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pankajkumar0202/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
