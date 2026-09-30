@@ -7,6 +7,7 @@ public:
        int h = 0;
        int ans = 0;
        long long area = 0;
+
        while(i < j) {
           w = j - i;
           h = min(height[i] , height[j]);
@@ -15,6 +16,8 @@ public:
           if(height[i] < height[j]) i++;
           else j--;
         } 
+        
        return ans;
+
     }
 };
