@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pankajkumar0202/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/pankajkumar0202/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/pankajkumar0202/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pankajkumar0202/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/pankajkumar0202/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1630-arithmetic-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/pankajkumar0202/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pankajkumar0202/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pankajkumar0202/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pankajkumar0202/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pankajkumar0202/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankajkumar0202/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankajkumar0202/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/pankajkumar0202/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pankajkumar0202/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pankajkumar0202/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
