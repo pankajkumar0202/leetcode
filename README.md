@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/pankajkumar0202/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/pankajkumar0202/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/pankajkumar0202/leetcode/tree/master/2810-faulty-keyboard) |
