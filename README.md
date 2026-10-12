@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pankajkumar0202/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2527-find-xor-beauty-of-array](https://github.com/pankajkumar0202/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/pankajkumar0202/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pankajkumar0202/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/pankajkumar0202/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pankajkumar0202/leetcode/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/pankajkumar0202/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3618-split-array-by-prime-indices](https://github.com/pankajkumar0202/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajkumar0202/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -903,4 +905,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/pankajkumar0202/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
