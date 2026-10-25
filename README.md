@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pankajkumar0202/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pankajkumar0202/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/pankajkumar0202/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/pankajkumar0202/leetcode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/pankajkumar0202/leetcode/tree/master/3271-hash-divided-string) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pankajkumar0202/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/pankajkumar0202/leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pankajkumar0202/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankajkumar0202/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pankajkumar0202/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Queue
 |  |
 | ------- |
