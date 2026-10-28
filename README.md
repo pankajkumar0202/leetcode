@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankajkumar0202/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pankajkumar0202/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pankajkumar0202/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/pankajkumar0202/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/pankajkumar0202/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajkumar0202/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/pankajkumar0202/leetcode/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pankajkumar0202/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pankajkumar0202/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/pankajkumar0202/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pankajkumar0202/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pankajkumar0202/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
