@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/pankajkumar0202/leetcode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/pankajkumar0202/leetcode/tree/master/3024-type-of-triangle) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankajkumar0202/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/pankajkumar0202/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankajkumar0202/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -962,4 +964,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/pankajkumar0202/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
