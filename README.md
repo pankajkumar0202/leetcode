@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/pankajkumar0202/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pankajkumar0202/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/pankajkumar0202/leetcode/tree/master/2951-find-the-peaks) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankajkumar0202/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2974-minimum-number-game](https://github.com/pankajkumar0202/leetcode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pankajkumar0202/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/pankajkumar0202/leetcode/tree/master/3024-type-of-triangle) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pankajkumar0202/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankajkumar0202/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankajkumar0202/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pankajkumar0202/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
