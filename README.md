@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pankajkumar0202/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pankajkumar0202/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pankajkumar0202/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/pankajkumar0202/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pankajkumar0202/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/pankajkumar0202/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pankajkumar0202/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankajkumar0202/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankajkumar0202/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pankajkumar0202/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/pankajkumar0202/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pankajkumar0202/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Queue
 |  |
