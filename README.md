@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/pankajkumar0202/leetcode/tree/master/3024-type-of-triangle) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankajkumar0202/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pankajkumar0202/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/pankajkumar0202/leetcode/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pankajkumar0202/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pankajkumar0202/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
