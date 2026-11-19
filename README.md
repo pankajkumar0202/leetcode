@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pankajkumar0202/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pankajkumar0202/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pankajkumar0202/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pankajkumar0202/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/pankajkumar0202/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/pankajkumar0202/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/pankajkumar0202/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pankajkumar0202/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pankajkumar0202/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pankajkumar0202/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankajkumar0202/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajkumar0202/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pankajkumar0202/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/pankajkumar0202/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pankajkumar0202/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankajkumar0202/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pankajkumar0202/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankajkumar0202/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pankajkumar0202/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/pankajkumar0202/leetcode/tree/master/1695-maximum-erasure-value) |
