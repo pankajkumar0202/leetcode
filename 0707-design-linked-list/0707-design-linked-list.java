@@ -88,6 +88,11 @@ class MyLinkedList {
 
             c++;
             temp = temp.next;
+
+            if(c == index) {
+                temp.next = newNode;
+                return;
+            }
         }     
     }
     
