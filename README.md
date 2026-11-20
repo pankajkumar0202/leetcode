@@ -954,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/pankajkumar0202/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pankajkumar0202/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1002,4 +1003,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/pankajkumar0202/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/pankajkumar0202/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
